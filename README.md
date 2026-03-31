@@ -34,6 +34,6 @@
   <img 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oMuriloCavalcanti&theme=dracula&hide_border=true&layout=compact&langs_count=8&count_private=true&cache_seconds=60"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oMuriloCavalcanti&theme=dracula&hide_border=true&layout=compact&include_all_commits=true&langs_count=8&count_private=true&cache_seconds=60"
   />
 </p>
