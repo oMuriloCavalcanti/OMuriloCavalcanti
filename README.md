@@ -1,41 +1,42 @@
-<h1 align="center">Olá, eu sou Murilo Cavalcanti 👋</h1>
+# Murilo Cavalcanti 👨🏽‍💻
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;C%23+%7C+JavaScript+%7C+PHP;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+**`Desenvolvedor Full Stack`**
 
----
 
-### 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+`[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)`
 
 ---
 
-### 📊 GitHub Stats
+### ⌨️ Linguagens e Tecnologias
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oMuriloCavalcanti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oMuriloCavalcanti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
+<img align="left" alt="CSharp" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" alt="NodeJS" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/>
+<img align="left" alt="pm2" title="pm2" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pm2/pm2-original.svg"/>
+
+<br/><br/>
 
 ---
 
-### 🔥 Streak Stats
+### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=oMuriloCavalcanti&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right:10px;" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=oMuriloCavalcanti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=60"
+  />
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oMuriloCavalcanti&color=6E40C9&style=flat-square&label=Visitas+ao+perfil" alt="profile views"/>
+  <img 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oMuriloCavalcanti&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&cache_seconds=60"
+  />
 </p>
