@@ -28,12 +28,12 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right:10px;" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=oMuriloCavalcanti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=60"
+    src="https://github-readme-stats-fast.vercel.app/api?username=oMuriloCavalcanti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=60"
   />
 
   <img 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oMuriloCavalcanti&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true&cache_seconds=60"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oMuriloCavalcanti&theme=dracula&hide_border=true&layout=compact&langs_count=8&count_private=true&cache_seconds=60"
   />
 </p>
